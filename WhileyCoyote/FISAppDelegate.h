@@ -1,10 +1,4 @@
-//
 //  FISAppDelegate.h
-//  WhileyCoyote
-//
-//  Created by iOS Staff on 9/30/14
-//  Copyright (c) 2014 The Flatiron School. All rights reserved.
-//
 
 @interface FISAppDelegate : UIResponder <UIApplicationDelegate>
 
